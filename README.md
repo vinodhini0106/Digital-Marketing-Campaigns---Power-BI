@@ -11,6 +11,9 @@ In this project, I worked with thousands of data records, where I:
 📊 The dashboard helps in:
 
 Tracking campaign performance
+
 Identifying trends and patterns
+
 Improving decision-making using data
+
 Optimizing marketing strategies for better ROI
