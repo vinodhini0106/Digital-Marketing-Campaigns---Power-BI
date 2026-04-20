@@ -1,2 +1,16 @@
-# Digital-Marketing-Campaigns---Power-BI
-Analyzed large-scale digital marketing data to boost ROI and campaign performance. Used Excel for data cleaning, identified key KPIs, and built an interactive Power BI dashboard to transform raw records into actionable insights. Skills: Excel, Power BI, SQL (Basic), Marketing Analytics &amp; Data Visualization. 📈🎯
+🚀 Data-Driven Insights for Digital Marketing Campaigns
+
+I did this hands-on project focused on analyzing large-scale digital marketing data to drive better campaign performance and ROI.
+
+In this project, I worked with thousands of data records, where I:
+✔️ Cleaned and preprocessed raw data using Excel
+✔️ Identified key performance indicators (KPIs) for marketing success
+✔️ Built an interactive dashboard using Power BI
+✔️ Transformed complex data into clear, actionable insights
+
+📊 The dashboard helps in:
+
+Tracking campaign performance
+Identifying trends and patterns
+Improving decision-making using data
+Optimizing marketing strategies for better ROI
